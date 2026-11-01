@@ -2,6 +2,10 @@
 
 A desktop calculator application built using Java and Swing. It features an intuitive graphical interface and supports basic arithmetic and common mathematical operations.
 
+<p align="center">
+  <img src="screenshot/Screenshot_20261101_090201.png" alt="Calculator Preview" width="320"/>
+</p>
+
 ---
 
 ## Features
@@ -52,8 +56,11 @@ java -cp src calculator.Calculator
 ## Project Structure
 
 ```text
+├── screenshot/
+│   └── Screenshot_20261101_090201.png
 ├── src/
 │   └── calculator/
 │       └── Calculator.java
+├── .gitignore
 └── README.md
 ```
